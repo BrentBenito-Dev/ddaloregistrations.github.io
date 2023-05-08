@@ -10,9 +10,9 @@
                     </div>
                     <div class="col-lg-8 align-self-baseline">
                         <p class="text-black  ">STI Colllege Marikina Expo registration provided by Devinshmirtz Digital and Logical Solutions Org. Select from the options below</p>
-                        <a class="btn btn-primary btn-xl m-2" href="../client_guest_registration/client_guest_registration_index.php">Register as a Guest</a>
-                        <a class="btn btn-primary btn-xl m-2" href="../client_student_registration/client_student_registration_index.php">Register as a Student of STI</a>
-                        <a class="btn btn-primary btn-xl m-2" href="../client_parent_registration/client_parent_registration_index.php">Register as a Parent of the Student</a>
+                        <a class="btn btn-primary btn-xl m-2" href="main_page/client_side/client_guest_registration/client_guest_registration_index.php">Register as a Guest</a>
+                        <a class="btn btn-primary btn-xl m-2" href="main_page/client_side/client_student_registration/client_student_registration_index.php">Register as a Student of STI</a>
+                        <a class="btn btn-primary btn-xl m-2" href="main_page/client_side/client_parent_registration/client_parent_registration_index.php">Register as a Parent of the Student</a>
                     </div>
                 </div>
             </div>

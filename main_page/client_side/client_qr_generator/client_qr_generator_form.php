@@ -10,7 +10,7 @@
                     Congratulations you have succesfully registered for the event! Please check your Email with the attached QR Code.
 
                 </h3>
-                <a class="btn btn-primary btn-xl m-2" href="../client_landing_page/client_landing_page_index.php">Register another guest?</a>
+                <a class="btn btn-primary btn-xl m-2" href="../../../index.php">Register another guest?</a>
             </div>
       </div>
     </div>
